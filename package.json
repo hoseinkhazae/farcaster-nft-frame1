@@ -1,0 +1,12 @@
+{
+  "name": "farcaster-nft-frame",
+  "version": "1.0.0",
+  "description": "A Farcaster Frame to mint NFTs on Base Mainnet",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
